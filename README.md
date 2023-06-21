@@ -3,7 +3,7 @@
 # Welcome to our Presentations repository
 
 This repository contains links and resources to our slide show presentation. Once our video presentation is available, it will be added to this repository as well. This project is the culmination to our OPS-301 course utilizing problem framing, troubleshooting methodology, and network engineering skills.
-This repo contains the Conquista Code slideshow presentation for the CloudPower company
+This repo contains the Conquista Code slideshow presentation for the CleanPower company
 
 <br>
 
@@ -23,7 +23,7 @@ This repo contains the Conquista Code slideshow presentation for the CloudPower 
 [Project: CleanPower](https://github.com/orgs/Conquista-Code/projects/1)
 
 
-## [SlideShow]
+## [SlideShow](https://docs.google.com/presentation/d/1mBIDtvxLZfLMJiiERd6ie0hyiwY4xgQ6j83xoKY_yN8/edit#slide=id.g8526846ab1_1_42)  ** Remove and replace with PDF once all inputs are finalized **
 
 ## [Video]
 
