@@ -11,3 +11,10 @@ This repo contains the Conquista Code slideshow presentation for the CloudPower 
 
 <br>
 
+## Network Topology
+
+![Network]
+
+## Server and Storage Solutions
+
+![Server]
