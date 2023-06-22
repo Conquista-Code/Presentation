@@ -31,7 +31,7 @@ This repo contains the Conquista Code slideshow presentation for the CleanPower 
 
 ## Network Topology
 
-![Network]
+![Network](Network_Topology.PNG)
 
 ## Server and Storage Solutions
 
