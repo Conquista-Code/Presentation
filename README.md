@@ -26,6 +26,6 @@ This repo contains the Conquista Code slideshow presentation for the CleanPower 
 ## Presentatiom
 [Video]  (Pending: Will upload video once presented on June 26th)
 
-[SlideShow](https://docs.google.com/presentation/d/1mBIDtvxLZfLMJiiERd6ie0hyiwY4xgQ6j83xoKY_yN8/edit#slide=id.g8526846ab1_1_42)   (Pending: to be replaced with PDF)
+[Conquista Code SlideShow](https://github.com/Conquista-Code/Presentation/blob/main/CleanPower_Slideshow.pdf)
 
 
